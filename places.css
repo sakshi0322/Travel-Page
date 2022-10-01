@@ -2,8 +2,8 @@ body {
   background-image:url("sa") ;
   background: linear-gradient(
     30deg,
-    rgba(77, 77, 77, 1),
-    rgba(108, 97, 99, 0.8)
+    rgba(235, 15, 15),
+    rgba(220, 108, 127, 0.8)
   );
 
   color: rgb(68, 68, 68);
