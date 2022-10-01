@@ -39,7 +39,7 @@
 
 #hero-content a {
   text-decoration: none;
-  background-color: rgb(255, 251, 0);
+  background-color: rgb(255, 0, 0);
   padding: 12px 24px;
   color: black;
   font-size: 24px;
@@ -88,7 +88,7 @@
 .destination img {
   height: 200px;
   width: 400px;
-  box-shadow: 2px 4px 8px rgb(68, 67, 67);
+  box-shadow: 2px 4px 8px rgb(149, 60, 60);
   border-radius: 10px;
   object-fit: cover;
 }

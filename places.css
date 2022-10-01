@@ -84,8 +84,8 @@ main li img {
 .actions a {
   text-decoration: none;
   padding: 6px;
-  color: rgb(22, 211, 228);
-  border-radius: 5px;
+  color: rgb(107, 165, 170);
+  border-radius: 9px;
 }
 
 .actions a:hover {
